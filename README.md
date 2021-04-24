@@ -1,2 +1,2 @@
 # clasesweb
-Laboratorio de Clases
+Actividades realizadas en clase
